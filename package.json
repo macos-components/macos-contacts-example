@@ -1,0 +1,19 @@
+{
+  "name": "macos-contacts-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.12.1",
+    "macos-contacts": "file:///Users/arikanmu/Sites/macos-contacts",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "server": "json-server --watch server/db.json --port 3001 --no-cors true"
+  }
+}
