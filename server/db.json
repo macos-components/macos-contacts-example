@@ -2,8 +2,9 @@
   "contact-list": [
     {
       "id": "1",
-      "name": "Ahmet Gülgün",
-      "number": "+90 (314) 159 2667"
+      "name": "Steve Jobs",
+      "number": "+90 (314) 159 2667",
+      "image": "http://www.bsci21.org/wp-content/uploads/2015/04/6216457030_186991fe61_o-706x437.png"
     },
     {
       "id": "2",
